@@ -18,13 +18,13 @@ email: 'rdc47@duke.edu'
 description: "I am a Duke CS major with interest in big data manipulation."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rebeccacombs.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-#twitter_username: 'jamigibbs'
+twitter_username: 
 github_username: 'rebeccacombs'
-#medium_username: 'blog.jamigibbs.com'
+medium_username: 
 
 # Build settings
 markdown: kramdown
-theme: phantom # Uncomment once published to RubyGems
+#theme: phantom # Uncomment once published to RubyGems
 plugins:
   - jekyll-paginate-v2
 
