@@ -7,4 +7,4 @@ I want to try my hand at as many problems as I can in this book:
 
 | Name                                          | Created                 | Completed |
 | --------------------------------------------- | ----------------------- | --------- |
-| [[chapter 1/1.1 is unique.md\|1.1 is unique]] | 10:58 AM - May 24, 2024 | false     |
+| [[chapter 1/1.1 is unique.md\|1.1 is unique]] | 11:06 AM - May 24, 2024 | true      |

@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "ctci",
+    pageTitle: "interview prep",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
